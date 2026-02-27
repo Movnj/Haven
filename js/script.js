@@ -26,7 +26,7 @@ Kebutuhan:
 ${msg}`
   );
 
-  window.open(`https://wa.me/6282170705870?text=${text}`,"_blank");
+  window.open(`https://wa.me/6282170705780?text=${text}`,"_blank");
 }
 
 
